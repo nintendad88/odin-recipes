@@ -17,6 +17,10 @@ html {
     text-align:center;
 }
 
+.sub-paries {
+    font-family: sans-serif;
+}
+
 .main_pics {
     display: block;
     margin-left: auto;
